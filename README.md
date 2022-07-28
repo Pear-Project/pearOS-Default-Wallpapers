@@ -19,7 +19,7 @@ Stock images are taken from the internet
 
 Current visble images are modified images from the internet
 
-Copyright (c) 2021 Andrei Muntean for the Pear Project
+Copyright (c) 2022 Andrei Muntean for the Pear Project
 
 Installation script made by Alexandru Balan, released under the GNU General Public License V3.
 
